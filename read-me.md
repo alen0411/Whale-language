@@ -1,1 +1,1 @@
-A short programe that will convert any text to Whale language.
+#A short programe that will convert any text to Whale language.
